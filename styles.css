@@ -1,0 +1,31 @@
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
+
+.burgers, .tacos, .sauce {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.Odin {
+    padding: 25px;
+    text-align: center;
+}
+
+.FoodList {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.Smile {
+    height: 500px;
+    width: 750px;
+    margin: 10px;
+    padding-left: 50px;
+}
